@@ -6,9 +6,11 @@ O projeto foi desenvolvido como atividade prática da disciplina **Desenvolvimen
 
 ## 🖥️ Prévia do projeto
 
-![Teste Chrome](./imagens/teste-Chrome.png)
+### 🌐 Google Chrome
+![Teste Chrome](./TESTES/teste-Chrome.png)
 
-![Teste Edge](./imagens/teste-ED.png)
+### 🌐 Microsoft Edge
+![Teste Edge](./TESTES/teste-ED.png)
 
 ## 🧰 Tecnologias utilizadas
 
