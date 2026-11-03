@@ -6,14 +6,11 @@ O projeto foi desenvolvido como atividade prática da disciplina **Desenvolvimen
 
 ## 🖥️ Prévia do projeto
 
-Abaixo estão imagens da página aberta em diferentes navegadores:
-
 ### Google Chrome
-![Página Meus Sites Favoritos aberta no Google Chrome](<img width="1279" height="673" alt="teste-Chrome" src="https://github.com/user-attachments/assets/646ee56e-d48c-459a-9a02-811cdc924554" />
-)
+![Meu projeto aberto no Google Chrome](imagens/teste-Chrome.png)
 
 ### Microsoft Edge
-![Página Meus Sites Favoritos aberta no Microsoft Edge](E:\Meus sites favoritos\TESTES\teste-ED.png)
+![Meu projeto aberto no Microsoft Edge](imagens/teste-ED.png)
 
 ## 🧰 Tecnologias utilizadas
 
