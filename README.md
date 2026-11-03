@@ -4,13 +4,6 @@ Uma página web simples que reúne alguns dos meus sites favoritos para acessar 
 
 O projeto foi desenvolvido como atividade prática da disciplina **Desenvolvimento de Sistemas 1**, com o objetivo de exercitar a estruturação de páginas web e a organização de links e imagens em HTML.
 
-##  Prévia do projeto
-
-###  Google Chrome
-![Teste Chrome](./TESTES/teste-Chrome.png)
-
-###  Microsoft Edge
-![Teste Edge](./TESTES/teste-ED.png)
 
 ## 🖥️ Tecnologias utilizadas
 
@@ -24,6 +17,16 @@ O projeto foi desenvolvido como atividade prática da disciplina **Desenvolvimen
 - **HTML5** — estruturação do conteúdo da página.
 - **CSS3** — estilização da interface, caso aplicado no projeto.
 - **Visual Studio Code** — editor utilizado no desenvolvimento.
+
+
+
+##  Prévia do projeto
+
+###  Google Chrome
+![Teste Chrome](./TESTES/teste-Chrome.png)
+
+###  Microsoft Edge
+![Teste Edge](./TESTES/teste-ED.png)
 
 
 ## 🎓 Sobre
