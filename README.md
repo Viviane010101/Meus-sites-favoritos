@@ -9,7 +9,8 @@ O projeto foi desenvolvido como atividade prática da disciplina **Desenvolvimen
 Abaixo estão imagens da página aberta em diferentes navegadores:
 
 ### Google Chrome
-![Página Meus Sites Favoritos aberta no Google Chrome]([E:\Meus sites favoritos\TESTES\teste-Chrome.png](https://github.com/Viviane010101/Meus-sites-favoritos/blob/main/TESTES/teste-Chrome.png))
+![Página Meus Sites Favoritos aberta no Google Chrome](<img width="1279" height="673" alt="teste-Chrome" src="https://github.com/user-attachments/assets/646ee56e-d48c-459a-9a02-811cdc924554" />
+)
 
 ### Microsoft Edge
 ![Página Meus Sites Favoritos aberta no Microsoft Edge](E:\Meus sites favoritos\TESTES\teste-ED.png)
